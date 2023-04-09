@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Full-Stack Software Engineer</h1>
+<h1 align="center">Hello 👋, I'm a Full-Stack Software Engineer</h1>
 <h3 align="center">I'm a passionate software developer from Oklahoma</h3>
 
-- 🔭 I’m currently working on [Other Worldly Weather App](https://github.com/DevRhyse/otherWorldly)
+- 🔭 I’m currently working on [Image Generalization Finder](https://github.com/DevRhyse/otherWorldly)
 
 - 🌱 I’m currently learning **Javascript and React**
 
 - 👯 I’m looking to collaborate on [Together](https://github.com/Caleb-Cohen/Together)
 
-- 🤝 I’m looking for help with [Together Admin Dashboard](https://github.com/InstincDev/Together-Admin-Dash)
+- 🤝 I’m looking for help with [dmHelper](https://github.com/DevRhyse/dmHelper)
 
 - 👨‍💻 All of my projects are available at [http://rhyse.netlify.app/](http://rhyse.netlify.app/)
 
-- 📝 I'm currently contributing to [https://github.com/InstincDev/Together-Admin-Dash](https://github.com/InstincDev/Together-Admin-Dash)
+- 📝 I'm currently contributing to [Together](https://github.com/Caleb-Cohen/Together)
 
 - 💬 Ask me about **Javascript**
 
