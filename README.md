@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm a Full-Stack Software Engineer</h1>
-<h3 align="center">I'm a passionate software developer from Oklahoma</h3>
+<h1 align="center">Hello 👋, I'm Rhyse</h1>
+<h3 align="center">Your next full-stack software engineer</h3>
 
-- 🔭 I’m currently working on [Image Generalization Finder](https://github.com/DevRhyse/otherWorldly)
+- 🔭 I’m currently working on [Image Generalization Finder](https://github.com/DevRhyse/image-generalization-finder)
 
 - 🌱 I’m currently learning **Javascript and React**
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with [dmHelper](https://github.com/DevRhyse/dmHelper)
 
-- 👨‍💻 All of my projects are available at [http://rhyse.netlify.app/](http://rhyse.netlify.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](http://rhyse.netlify.app/)
 
 - 📝 I'm currently contributing to [Together](https://github.com/Caleb-Cohen/Together)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript or What I'm building**
 
 - 📫 How to reach me **dev.rhyse@gmail.com**
 
